@@ -16,7 +16,7 @@ li{
 	width: 50%;
 	padding: 10px;
 }
-li:nth-child(even){
+li{
 	background-color: grey;
 }
 li:nth-child(odd){
